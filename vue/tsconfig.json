@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "es2016",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
-    "module": "es6",                                /* Specify what module code is generated. */
+    "module": "ES6",                                /* Specify what module code is generated. */
     "lib": ["DOM","ESNext","DOM.Iterable","ScriptHost"],//包含的库文件
     "outDir": "./dist",
     "strict": true,                                      /* Enable all strict type-checking options. */
@@ -10,3 +10,4 @@
   },
   "include": ["./src"] //编译的文件
 }
+ 
